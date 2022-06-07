@@ -1,0 +1,14 @@
+"The number of sales amounts in the file is: " 10
+"The lowest sales amount is " $2.67
+"The highest sales amount is " $34.7
+"Here is the list of amounts sorted from lowest to highest:"
+$2.67
+$3.55
+$4.99
+$9.95
+$12.34
+$18.45
+$24.99
+$29.95
+$33.89
+$34.7
